@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body
+{
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+#div_01
+{
+	width:600px;
+	height:600px;
+	background-color:#00ffff;
+	border:non;
+	
+	
+	text-align: center;
+	padding:10px;
+	border-radius:10px;
+	
+}
+
+form
+{
+	margin-top:10px;
+	margin-left:10px;
+}
+
+#sub
+{
+	background-color: #ff00ff;
+	margin-top:25px;
+	width:100px;
+	height:50px;
+	border-radius:5px;
+	border:none;
+}
+.input_tag
+{
+	width:200px;
+	height:30px;
+	border-radius:5px;
+	border:none;
+	background-color: #75858a;
+}
+
+
+
